@@ -40,8 +40,7 @@ guildsButton.onclick = function () {
 
 function removeCards() {
     setTimeout(function () {
-        container.style.opacity = '0'
-        btns.style.opacity = '0'
+       
         avatar.style.opacity = '0'
         block.style.opacity = '0'
     }, 0)
